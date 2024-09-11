@@ -1,4 +1,3 @@
-# prompt: now generate other file using fastapi python to carry out above functionality
 
 from fastapi import FastAPI
 from sim_extraction import calculate_overall_sentiment

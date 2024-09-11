@@ -1,5 +1,3 @@
-# prompt: now use all above code to design a function which takes chunked reviews list as input as well as product name as input and gives the overall sentiment scores like above in output
-
 import torch
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
